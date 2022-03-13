@@ -2,9 +2,10 @@
 # 🌈백준 알고리즘 스터디 레포
 
 ### 푸자 팀원들과 함께하는 유빈의 스터디 레포
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hitsu)](https://solved.ac/hitsu/)
 
 ##  백준 스터디 계획표🔥
-| Week| check | detail |
+| Week | check | detail |
 | :------: | :--: | :-----------: |
 | 1주차 | ☑️ | 백준 |
 | 2주차 |  | 백준 |
@@ -14,9 +15,7 @@
 | 6주차 |  | 백준 |
 | 7주차 |  | 백준 |
 | 8주차 |  | 백준 |
-    
-    
-  
+
 ## ✨yubin's tech stack✨
 ### Techs that I've used at least once✏
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
