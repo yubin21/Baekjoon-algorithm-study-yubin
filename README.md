@@ -1,7 +1,7 @@
 
 # 🌈백준 알고리즘 스터디 레포
 
-### 푸자 팀원들과 함께하는 유빈의 스터디 레포✨
+### 푸자 팀원들과 함께하는 유빈의 스터디 레포
 
 ##  백준 스터디 계획표🔥
 | Week| check | detail |
@@ -14,10 +14,11 @@
 | 6주차 |  | 백준 |
 | 7주차 |  | 백준 |
 | 8주차 |  | 백준 |
-
----
-### ✨yubin's tech stack✨
-#### Techs that I've used at least once✏
+    
+    
+  
+## ✨yubin's tech stack✨
+### Techs that I've used at least once✏
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
