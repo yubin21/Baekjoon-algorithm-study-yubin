@@ -1,5 +1,5 @@
 
-# 🌈백준 알고리즘 스터디 레포
+# 🌈BOJ algorithm study Repository
 
 ###  유빈의 백준 스터디 레포
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hitsu)](https://solved.ac/hitsu/)
@@ -8,6 +8,8 @@
 백준 단계별로 풀어보기
 https://www.acmicpc.net/step
 
+
+*학업 문제상 몰아서 하는 점 양해바랍니다..  
 | Week | check | detail |
 | :------: | :--: | :-----------: |
 | 1주차 | ☑️ | 백준 2557 ~ 	10998 |
